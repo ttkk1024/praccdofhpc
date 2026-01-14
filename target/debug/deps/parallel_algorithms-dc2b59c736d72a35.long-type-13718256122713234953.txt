@@ -1,0 +1,3 @@
+dyn for<'a> Fn(&'a HashMap<usize, Vec<usize>>, usize) -> (HashMap<usize, usize>, HashMap<usize, Option<usize>>)
+Unique<dyn for<'a> Fn(&'a HashMap<usize, Vec<usize>>, usize) -> (HashMap<usize, usize>, HashMap<usize, Option<usize>>)>
+Box<dyn for<'a> Fn(&'a HashMap<usize, Vec<usize>>, usize) -> (HashMap<usize, usize>, HashMap<usize, Option<usize>>)>

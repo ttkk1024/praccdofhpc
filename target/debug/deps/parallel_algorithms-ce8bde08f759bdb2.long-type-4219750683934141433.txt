@@ -1,0 +1,3 @@
+dyn for<'a, 'b> Fn(&'a ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, &'b ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>) -> ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>
+Unique<dyn for<'a, 'b> Fn(&'a ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, &'b ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>) -> ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>>
+Box<dyn for<'a, 'b> Fn(&'a ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>, &'b ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>) -> ArrayBase<OwnedRepr<f64>, Dim<[usize; 2]>>>

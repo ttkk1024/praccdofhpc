@@ -1,0 +1,11 @@
+[package]
+name = "rust_parallel_test"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name"]
+description = "Simple parallel algorithms test in Rust"
+
+[dependencies]
+rayon = "1.9"
+ndarray = "0.15"
+rand = "0.8"
